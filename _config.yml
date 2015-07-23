@@ -1,0 +1,21 @@
+# Dependencies
+markdown: redcarpet
+
+pygments: false
+
+excerpt_separator: <!--more-->
+
+# Permalinks
+permalink: pretty
+
+# Setup
+title: BrEmberJs
+url: bremberjs.github.io
+
+author:
+  name: bremberjs
+
+# Allow URL Redirects: 
+#  * https://help.github.com/articles/redirects-on-github-pages
+gems:
+  - jekyll-redirect-from
